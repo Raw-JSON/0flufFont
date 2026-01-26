@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    body { width: 220px; padding: 15px; font-family: system-ui, sans-serif; background: #fff; color: #000; }
+    select { width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px; font-size: 14px; margin-bottom: 12px; cursor: pointer; }
+    .toggle-container { display: flex; align-items: center; gap: 8px; font-size: 12px; border-top: 1px solid #eee; padding-top: 10px; }
+    input[type="checkbox"] { cursor: pointer; width: 16px; height: 16px; margin: 0; }
+  </style>
+</head>
+<body>
+  <select id="fontSelect">
+    <option value="" selected>Original Font</option>
+    </select>
+
+  <div class="toggle-container">
+    <input type="checkbox" id="excludeToggle">
+    <label for="excludeToggle">Disable on this website</label>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
