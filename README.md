@@ -9,7 +9,7 @@
 - **Privacy First:** Uses local storage only. No external telemetry.
 ---
 ## Installation
-1. Download this repository as a ZIP or clone it to your machine.
+1. Download this repository.
 2. Open your browser and navigate to `chrome://extensions`.
 3. Enable **Developer Mode** using the toggle in the top-right corner.
 4. Click the **Load Unpacked** button.
