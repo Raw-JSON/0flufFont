@@ -14,7 +14,6 @@
 3. Enable **Developer Mode** using the toggle in the top-right corner.
 4. Click the **Load Unpacked** button.
 5. **CRITICAL STEP:** Navigate into the project folder and select the **specific sub-folder** that contains the `manifest.json` file. 
-   > *Note: Do not select the top-level repository folder if it contains extra documentation or wrappers; the browser needs the folder where the code lives.*
 ---
 ## How to Update
 If a new version is released:
