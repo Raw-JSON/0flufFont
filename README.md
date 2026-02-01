@@ -4,7 +4,7 @@
 ---
 ## Key Features
 - **Dynamic Font Switching:** Persistently change the typeface across the entire web.
-- **Site Exclusion:** One-click disable for complex sites (like Gemini or specialized dashboards) to prevent UI breakage.
+- **Site Exclusion:** One-click disable for complex sites to prevent UI breakage.
 - **Zero Configuration:** Ready to use out of the box with curated font categories.
 - **Privacy First:** Uses local storage only. No external telemetry.
 ---
