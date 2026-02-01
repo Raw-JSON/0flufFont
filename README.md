@@ -13,7 +13,7 @@
 2. Open your browser and navigate to `chrome://extensions`.
 3. Enable **Developer Mode** using the toggle in the top-right corner.
 4. Click the **Load Unpacked** button.
-5. **CRITICAL STEP:** Navigate into the project folder and select the **specific sub-folder** that contains the `manifest.json` file. 
+5. **CRITICAL STEP:** Navigate *inside* the extracted folder and select the **`0flufFont`** subfolder (the one containing `manifest.json`).
 ---
 ## How to Update
 If a new version is released:
